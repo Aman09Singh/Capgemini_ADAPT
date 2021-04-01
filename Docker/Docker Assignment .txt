@@ -1,0 +1,18 @@
+1) docker --version
+2) docker pull nginx
+3) docker images -a
+4) docker rmi
+5) docker run nginx
+6) docker ps
+7) docker ps -a
+8) docker ps -a
+9) docker history nginx
+10) docker pull tomcat
+11) docker run -it --rm -p 8080:8080 tomcat:7.0
+12) localhost:8080
+13) docker ps -> docker port {name}
+15) docker system df
+17) docker-machine ls -> docker-machine ip {name} -> curl {ip}
+19) docker pull ubuntu
+20) docker attach ubuntu
+21) docker run -d ubuntu

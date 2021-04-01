@@ -1,0 +1,6 @@
+p.dotted {
+
+    border: 2px orange solid;
+    outline: 5px green dotted;
+    position: absolute;
+}

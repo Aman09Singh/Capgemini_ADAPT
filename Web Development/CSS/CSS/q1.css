@@ -1,0 +1,14 @@
+p {
+    padding: 0%;
+    background-color: rgb(114, 152, 223);
+}
+
+.one p{
+    padding: 0%;
+    background-color: rgb(109, 255, 248);
+}
+
+body{
+    padding:0%;
+    background-color: rgb(64, 43, 250);
+}

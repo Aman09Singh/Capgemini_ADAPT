@@ -1,0 +1,19 @@
+body {
+    background-color: antiquewhite;
+}
+
+table{
+    background-color: green;
+    border: 1px solid black;
+    
+}
+
+table th{
+    background-color: green;
+    border: 1px black solid ;
+    color:white;
+}
+
+table td{
+    background-color: white;
+}
